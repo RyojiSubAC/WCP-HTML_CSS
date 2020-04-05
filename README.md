@@ -1,2 +1,6 @@
-# WCP-HTML_CSS
-WCP_Mentor_Practice
+## WCP-HTML_CSS
+- 課題内容  
+```
+8章の演習問題で作ったサイトをレスポンシブ対応させてみましょう。
+PCで横並びになっているboxを768px以下では縦並びにしましょう。
+```
